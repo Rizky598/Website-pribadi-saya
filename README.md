@@ -1,6 +1,4 @@
-# Website-pribadi-saya
-Website untuk masuk ke grup WhatsApp saya
-<!DOCTYPE html>
+WhatsApp<!DOCmas html>
 <html lang="id">
 <head>
   <meta charset="UTF-8">
